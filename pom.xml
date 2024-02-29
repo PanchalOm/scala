@@ -65,6 +65,10 @@
   </distributionManagement>
 
   <properties>
+     
+     <sonar.login>admin</sonar.login>
+     <sonar.password>op14092003</sonar.password> 
+    
     <clirr.comparisonVersion>1.2.0</clirr.comparisonVersion>
     <findbugs.onlyAnalyze>org.mybatis.scala.*</findbugs.onlyAnalyze>
     <gcu.product>Scala</gcu.product>
